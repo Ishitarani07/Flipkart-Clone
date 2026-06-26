@@ -1,6 +1,6 @@
 # Flipkart Clone - E-Commerce Platform
 
-A full-stack e-commerce web application replicating Flipkart's design and user experience. Built as part of the Scaler SDE Intern Fullstack Assignment.
+A full-stack e-commerce web application replicating Flipkart's design and user experience.
 
 ## Tech Stack
 
@@ -190,6 +190,3 @@ A full-stack e-commerce web application replicating Flipkart's design and user e
 3. Set start command: `npm start`
 4. Add environment variables
 
-## License
-
-This project is created for educational purposes as part of the Scaler SDE Intern assignment.
